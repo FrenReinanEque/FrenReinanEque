@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Fren Reinan C. Eque
 
-<!--
-**FrenReinanEque/FrenReinanEque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding and database management. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech began with my enrollment in the BS Information System program at New Era University.
 
-Here are some ideas to get you started:
+## 📚 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**BS Information System**  
+New Era University  
+2022 - Present
+
+## 📜 Certifications
+
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://www.oracle.com/cloud/certification/)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://www.oracle.com/cloud/certification/)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://www.oracle.com/cloud/certification/)
+- [SQL and Relational Databases 101](https://www.example.com/sql-relational-databases-101)
+
+## 💻 Skill Sets
+
+### Programming
+- Java
+- JavaScript
+
+### Databases
+- IBM DB2 Cloud
+
+### Tools
+- Lucidchart
+- Jaspersoft Studio
+- Eclipse
+- HTML
+
+## 📫 Contact Me
+
+You can reach me via email at: [frenreinancorpus@gmail.com](mailto:frenreinancorpus@gmail.com)
